@@ -42,15 +42,15 @@
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="src\DiskCache.cs" />
     <Compile Include="src\CookieJar.cs" />
+    <Compile Include="src\FormDataStream.cs" />
     <Compile Include="src\Request.cs" />
     <Compile Include="src\Response.cs" />
     <Compile Include="src\ResponseCallbackDispatcher.cs" />
     <Compile Include="lib\JSON.cs" />
+    <Compile Include="src\StreamedWWWForm.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <Folder Include="src\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="UnityHTTP.nuspec" />
   </ItemGroup>
