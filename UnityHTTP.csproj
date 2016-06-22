@@ -7,8 +7,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{8E94F9A4-3E1E-42F4-86E8-58270D44A4D8}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>HTTP</RootNamespace>
-    <AssemblyName>HTTP</AssemblyName>
+    <RootNamespace>UnityHTTP</RootNamespace>
+    <AssemblyName>UnityHTTP</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
